@@ -1,3 +1,5 @@
+require 'aissue'
+
 puts 'ゼロ除算します'
 
 begin
