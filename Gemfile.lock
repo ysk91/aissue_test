@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
-    aissue (0.1.0)
+    aissue (0.1.2)
       dotenv
       octokit
       thor
